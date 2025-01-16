@@ -1,0 +1,9 @@
+[submodule "JuliaLBMTopo"]
+	path = JuliaLBMTopo
+	url = https://github.com/kryo4096/JuliaLBMTopo.git
+[submodule "gpu-workshop-JuliaCon23"]
+	path = gpu-workshop-JuliaCon23
+	url = https://github.com/PTsolvers/gpu-workshop-JuliaCon23.git
+[submodule "ReactorSimulation.jl"]
+	path = ReactorSimulation.jl
+	url = https://github.com/TheFibonacciEffect/ReactorSimulation.jl.git
